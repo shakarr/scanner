@@ -38,6 +38,7 @@ def main():
 
             # Show a random banner. Configured in banner.py .
             #print(title)
+            print("""\033[1;33m[+]═══════════[ Author : @shakarr\033[1;m \033[1;36m_-\|/-_\033[1;m \033[1;33mWebsite: shakarr.github.io ]═══════════[+]\033[1;m""")
 
             # Print network configuration , using tabulate.
 
