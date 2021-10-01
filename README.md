@@ -8,6 +8,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/version-v1.0-brightgreen?style=for-the-badge" />
     <img src="https://img.shields.io/badge/python-3.6-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/github/repo-size/shakarr/scanner?style=for-the-badge" />
 </p>
 
 Scanner is a tool for automated scans with nmap, from a simple scan to more complex scans
