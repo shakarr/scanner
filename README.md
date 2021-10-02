@@ -1,4 +1,9 @@
-# Scanner
+<p align="center">
+    <img src="./img/logo.svg" width="" height=""/>
+</p>
+
+
+<h1 align="center">Scanner</h1>
 
 Scanner is a tool for automated scans with nmap, from a simple scan to more complex scans
 
