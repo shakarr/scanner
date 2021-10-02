@@ -1,0 +1,4 @@
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-10-02 03:05 WEST
+Nmap scan report for 0.0.0.0
+Host is up (0.00028s latency).
+Nmap done: 256 IP addresses (1 host up) scanned in 26.87 seconds
