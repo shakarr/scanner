@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/github/downloads/shakarr/scanner/total?style=for-the-badge" />
 </p>
 
-Scanner is a tool for automated scans with nmap, from a simple scan to more complex scans
+Scanner is a tool for automated scans with nmap
 
 <p align="center">
 <img src="img/banner.png" width="100%">
